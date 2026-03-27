@@ -16,7 +16,7 @@
     <a href="mailto:abdalrahmanokeil@gmail.com">
       <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="50"/>
     </a> &nbsp;
-    <a href="www.linkedin.com/in/AbdAlrahmanOkeil">
+    <a href="https://www.linkedin.com/in/AbdAlrahmanOkeil">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/>
     </a> &nbsp;
     <a href="https://wa.me/201019214705" target="_blank">
