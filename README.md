@@ -7,7 +7,7 @@
 </div>
 
   <p align="center">
-    <a href="https://drive.google.com/file/d/1axEwRmEMlB6Tp8REy3vjeduyAF0fZzyD/view?usp=drive_link">
+    <a href="https://drive.google.com/file/d/1Ix_ADFqAH99olesNX7qwFvgsY7v0bMi1/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
   </p>
 
